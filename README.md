@@ -1,8 +1,6 @@
----
-layout: default
----
 
-# Poem 1
+
+## Poem 1
 Hehe
 
 
