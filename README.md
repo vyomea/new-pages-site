@@ -1,2 +1,3 @@
-# new-pages-site
+# Build Settings
+markdown: kramdown
 theme: minima
