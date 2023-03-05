@@ -1,5 +1,8 @@
-# Poem 1
+---
+layout: default
+---
 
+# Poem 1
 Hehe
 
 
