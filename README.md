@@ -1,3 +1,3 @@
-# Build Settings
+# Build settings
 markdown: kramdown
 theme: minima
